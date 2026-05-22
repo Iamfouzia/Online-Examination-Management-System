@@ -1,0 +1,88 @@
+*
+{
+    margin:0;
+    padding: 0;
+}
+header
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.main-nav
+{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.main-nav li a
+{
+   color: white;
+   text-decoration: none;
+   padding: 5px 20px;
+   font-family:"Roboto", sans-serif;
+   font-size: 15px;
+   color:white;
+}
+.main-nav li.active a
+{
+    border:1px solid white;
+}
+.main-nav li a:hover
+{
+    border: 1px solid white;
+}
+body
+{
+    font-family: monospace;
+}
+
+.hero
+{
+    position: absolute;
+    widows: 1200px;
+    margin-left: 250px;
+    margin-top: 0;
+}
+
+h2
+{
+    color:white;
+    text-transform: uppercase;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 275px;
+}
+.button
+{
+    margin-top: 30px;
+    margin-left: 150px;
+}
+.btn
+{
+     border: 1px solid white;
+     padding: 10px 30px;
+    color: white;
+    text-decoration:none;
+    margin-size: 13px;
+    text-transform: uppercase; 
+}
+.btn-one
+{
+    background-color: darkred;
+    font-family: "Roboto", sans-serif;
+}
+
+.btn-two
+{
+    background-color: darkorange;
+    font-family: "Roboto", sans-serif;
+}
+
+.btn-three
+{
+    background-color: darkgreen;
+    font-family: "Roboto", sans-serif;
+}

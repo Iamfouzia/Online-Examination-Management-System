@@ -1,0 +1,71 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+header{
+    
+  
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.main-nav
+{
+    float: right;
+    list-style: none;
+    margin:top:30px;
+}
+.main-nav li
+{
+display: inline-block;
+}
+.main-nav li a
+{
+    color:white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size:15px;
+    background-color: rgba(45, 187, 116, 0.788);
+
+}
+.main-nav li.active a
+{
+    border:1px solid white;
+    
+}
+.main-nav li a:hover
+{
+    border:1px solid grey;
+
+}
+body{
+    font-family: monospace;
+}
+.row
+{
+    max-width:1200;
+    margin: 15px;
+    float: left;
+}
+ul li a:hover
+{
+background-color: blue;
+size:5px;
+}
+
+form{
+   
+   float: right;
+   
+}
+fieldset{
+    float: right;
+    background-color: blueviolet;
+    margin:30px 0px  10px 100px;
+    
+  
+}
