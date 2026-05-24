@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎓 Online Examination Management System
-### OEMS —> A Web-Based Timed Quiz & Result Platform
+### OEMS: A Web-Based Timed Quiz & Result Platform
 
 ![PHP](https://img.shields.io/badge/PHP-7%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-InnoDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
