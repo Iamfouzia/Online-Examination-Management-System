@@ -199,7 +199,7 @@ All database operations are encapsulated in a single `users` class:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/Online-Examination-Management-System.git
+git clone https://github.com/Iamfouzia/Online-Examination-Management-System.git
 
 # 2. Move to XAMPP web root
 mv Online-Examination-Management-System/ C:/xampp/htdocs/OEMS/
@@ -221,15 +221,7 @@ $db_name  = "oems";
 http://localhost/OEMS/index.php
 ```
 
----
 
-## Developer
-
-<div align="center">
-
-**Fouzia**  
-BS Computer Science — IUB  
-2026
 
 </div>
 
