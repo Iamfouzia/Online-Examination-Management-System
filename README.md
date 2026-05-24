@@ -196,15 +196,20 @@ All database operations are encapsulated in a single `users` class:
 ---
 ## Screenshots
 
-### Home Page
-![Home](assets/images/home.png)
+### Login Page
+<img width="1920" height="960" alt="Screenshot (870)" src="https://github.com/user-attachments/assets/d69bf731-146a-4d3c-b6be-fd0792440257" />
+
+### Register Page
+<img width="1920" height="964" alt="Screenshot (868)" src="https://github.com/user-attachments/assets/7c4756e1-3aa7-43ae-81c1-d897d37e559e" />
+
+### Home Dashboard
+<img width="1920" height="962" alt="Screenshot (844)" src="https://github.com/user-attachments/assets/52ddbdb2-9a3d-4093-a5e2-13ba78e72765" />
 
 ### Exam Page
-![Exam](assets/images/exam.png)
+<img width="1920" height="964" alt="Screenshot (845)" src="https://github.com/user-attachments/assets/7dade94a-6359-457b-81a1-54c8a353f7c9" />
 
 ### Result Card
-![Result](assets/images/result.png)
-
+<img width="1920" height="957" alt="Screenshot (851)" src="https://github.com/user-attachments/assets/b5b2b581-9a99-4bea-a965-784f08bf5d1b" />
 
 ## Local Setup
 
