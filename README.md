@@ -8,7 +8,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-3.4-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-XAMPP-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-> A full-stack web application that enables students to attempt category-based timed examinations and receive instant evaluated results — built with core PHP OOP and MySQL.
+> A full-stack web application that enables students to attempt category-based timed examinations and receive instant evaluated results built with core PHP OOP and MySQL.
 
 </div>
 
@@ -194,6 +194,17 @@ All database operations are encapsulated in a single `users` class:
 | `url($url)` | string | void | HTTP redirect helper |
 
 ---
+## Screenshots
+
+### Home Page
+![Home](assets/images/home.png)
+
+### Exam Page
+![Exam](assets/images/exam.png)
+
+### Result Card
+![Result](assets/images/result.png)
+
 
 ## Local Setup
 
