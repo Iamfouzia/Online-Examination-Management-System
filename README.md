@@ -236,7 +236,8 @@ $db_name  = "oems";
 # 6. Open in browser
 http://localhost/OEMS/index.php
 ```
-
+## Live Demo
+🌐 [Click here to view](http://oems-fouzia.lovestoblog.com/index.php)
 
 
 </div>
